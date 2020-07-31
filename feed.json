@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The MudTown Crew",
+    "description": "",
+    "home_page_url": "https://enricopalazzo.github.io/mudtowncrew",
+    "feed_url": "https://enricopalazzo.github.io/mudtowncrew/feed.json",
+    "user_comment": "",
+    "icon": "https://enricopalazzo.github.io/mudtowncrew/media/website/logoweb.png",
+    "author": {
+        "name": "Federico Dib"
+    },
+    "items": [
+        {
+            "id": "https://enricopalazzo.github.io/mudtowncrew/sdfsdfsdf.html",
+            "url": "https://enricopalazzo.github.io/mudtowncrew/sdfsdfsdf.html",
+            "title": "sdfsdfsdf",
+            "summary": "sdfsdfsddsfsdfsdfsddsfsdfsdfsddsfsdf sdfsddsfsdfsdfsddsfsdfsdfsddsfsdfsdfsddsfddsf ",
+            "content_html": "<p><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">sdfsdfsddsfsdfsdfsddsfsdfsdfsddsfsdf</span></p>\n<p><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">sdfsddsfsdfsdfsddsfsdfsdfsddsfsdfsdfsddsfddsf</span></p>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/riase-felix-gonzalito-que-el-chiste-es-bueno.jpg\" data-size=\"480x360\"><img loading=\"lazy\" src=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/riase-felix-gonzalito-que-el-chiste-es-bueno-thumbnail.jpg\" alt=\"\" width=\"480\" height=\"360\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_07_58-Calendar-Federico-Dib-Outlook.png\" data-size=\"737x649\"><img loading=\"lazy\" src=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_07_58-Calendar-Federico-Dib-Outlook-thumbnail.png\" alt=\"\" width=\"720\" height=\"634\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_06_28-Calendar-Federico-Dib-Outlook.png\" data-size=\"699x626\"><img loading=\"lazy\" src=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_06_28-Calendar-Federico-Dib-Outlook-thumbnail.png\" alt=\"\" width=\"699\" height=\"626\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/IANESTATUS.png\" data-size=\"1265x734\"><img loading=\"lazy\" src=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/IANESTATUS-thumbnail.png\" alt=\"\" width=\"720\" height=\"418\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/288thk.jpg\" data-size=\"350x298\"><img loading=\"lazy\" src=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/288thk-thumbnail.jpg\" alt=\"\" width=\"350\" height=\"298\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-20-09_36_06-Create-New-Timesheet-1-Practice-Management-Zeplin.png\" data-size=\"1315x462\"><img loading=\"lazy\" src=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-20-09_36_06-Create-New-Timesheet-1-Practice-Management-Zeplin-thumbnail.png\" alt=\"\" width=\"720\" height=\"253\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-14-10_11_05-billingmanager-CentralReach.png\" data-size=\"1671x447\"><img loading=\"lazy\" src=\"https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-14-10_11_05-billingmanager-CentralReach-thumbnail.png\" alt=\"\" width=\"720\" height=\"193\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Federico Dib"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-31T12:01:52-06:00",
+            "date_modified": "2020-07-31T12:01:52-06:00"
+        }
+    ]
+}

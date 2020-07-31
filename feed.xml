@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>The MudTown Crew</title>
+    <link href="https://enricopalazzo.github.io/mudtowncrew/feed.xml" rel="self" />
+    <link href="https://enricopalazzo.github.io/mudtowncrew" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Federico Dib</name>
+    </author>
+    <id>https://enricopalazzo.github.io/mudtowncrew</id>
+
+    <entry>
+        <title>sdfsdfsdf</title>
+        <author>
+            <name>Federico Dib</name>
+        </author>
+        <link href="https://enricopalazzo.github.io/mudtowncrew/sdfsdfsdf.html"/>
+        <id>https://enricopalazzo.github.io/mudtowncrew/sdfsdfsdf.html</id>
+
+        <updated>2020-07-31T12:01:52-06:00</updated>
+            <summary>
+                <![CDATA[
+                    sdfsdfsddsfsdfsdfsddsfsdfsdfsddsfsdf sdfsddsfsdfsdfsddsfsdfsdfsddsfsdfsdfsddsfddsf 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">sdfsdfsddsfsdfsdfsddsfsdfsdfsddsfsdf</span></p>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">sdfsddsfsdfsdfsddsfsdfsdfsddsfsdfsdfsddsfddsf</span></p>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/riase-felix-gonzalito-que-el-chiste-es-bueno.jpg" data-size="480x360"><img loading="lazy" src="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/riase-felix-gonzalito-que-el-chiste-es-bueno-thumbnail.jpg" alt="" width="480" height="360"></a></figure>
+<figure class="gallery__item"><a href="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_07_58-Calendar-Federico-Dib-Outlook.png" data-size="737x649"><img loading="lazy" src="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_07_58-Calendar-Federico-Dib-Outlook-thumbnail.png" alt="" width="720" height="634"></a></figure>
+<figure class="gallery__item"><a href="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_06_28-Calendar-Federico-Dib-Outlook.png" data-size="699x626"><img loading="lazy" src="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-06-17_06_28-Calendar-Federico-Dib-Outlook-thumbnail.png" alt="" width="699" height="626"></a></figure>
+<figure class="gallery__item"><a href="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/IANESTATUS.png" data-size="1265x734"><img loading="lazy" src="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/IANESTATUS-thumbnail.png" alt="" width="720" height="418"></a></figure>
+<figure class="gallery__item"><a href="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/288thk.jpg" data-size="350x298"><img loading="lazy" src="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/288thk-thumbnail.jpg" alt="" width="350" height="298"></a></figure>
+<figure class="gallery__item"><a href="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-20-09_36_06-Create-New-Timesheet-1-Practice-Management-Zeplin.png" data-size="1315x462"><img loading="lazy" src="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-20-09_36_06-Create-New-Timesheet-1-Practice-Management-Zeplin-thumbnail.png" alt="" width="720" height="253"></a></figure>
+<figure class="gallery__item"><a href="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-14-10_11_05-billingmanager-CentralReach.png" data-size="1671x447"><img loading="lazy" src="https://enricopalazzo.github.io/mudtowncrew/media/posts/1/gallery/2019-11-14-10_11_05-billingmanager-CentralReach-thumbnail.png" alt="" width="720" height="193"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
