@@ -1943,17 +1943,32 @@ box-shadow: -3px -3px 2px 0px rgba(105,105,105,0.71);
     transform: rotate(4deg);
 }
 
-@media screen and (max-width: 400px) {
+/*@media screen and (max-width: 400px) {
 #sib-container {
     padding: 5px!important;
 }
+}*/
+.tingle-modal__close {
+    position: fixed;
+    top: 1rem!important;
+    right: 1rem!important;
+}
+.tingle-modal-box {
+    margin-top: 3.5rem!important;
+    width: 90%!important;
+  max-width: 520px;
+  }
+.tingle-modal-box__content {
+    padding: 1rem!important;
+  min-height: 95vh;
 }
 @media screen and (max-width: 900px) and (min-width: 540px) {
-.tingle-modal-box__content {
+
+  .tingle-modal-box__content {
     padding: 1rem!important;
 }
   .tingle-modal-box {
-     width: 70%!important;
+     width:90%!important;
 }
 }
 @media screen and (max-width: 900px) {
