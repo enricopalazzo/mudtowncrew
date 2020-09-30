@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://mudtowncrew.com/characters.html",
+            "url": "https://mudtowncrew.com/characters.html",
+            "title": "Characters",
+            "summary": "Let us introduce you to the crew. These are the five. Buko \"The 'Captain'\"Bouncer \"The Dancing Bodyguard\"Gor \"The Pirate\"Kim \"The Liberator\"Just Shen",
+            "content_html": "<p>Let us introduce you to the crew.  These are the five. </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://mudtowncrew.com/media/posts/8/gallery/buko.png\" data-size=\"595x842\"><img loading=\"lazy\" src=\"https://mudtowncrew.com/media/posts/8/gallery/buko-thumbnail.png\" alt=\"Buko\" width=\"595\" height=\"842\"></a>\n<figcaption>Buko \"The 'Captain'\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://mudtowncrew.com/media/posts/8/gallery/bouncer.png\" data-size=\"595x842\"><img loading=\"lazy\" src=\"https://mudtowncrew.com/media/posts/8/gallery/bouncer-thumbnail.png\" alt=\"Bouncer\" width=\"595\" height=\"842\"></a>\n<figcaption>Bouncer \"The Dancing Bodyguard\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://mudtowncrew.com/media/posts/8/gallery/gor.png\" data-size=\"595x842\"><img loading=\"lazy\" src=\"https://mudtowncrew.com/media/posts/8/gallery/gor-thumbnail.png\" alt=\"Gor\" width=\"595\" height=\"842\"></a>\n<figcaption>Gor \"The Pirate\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://mudtowncrew.com/media/posts/8/gallery/kim.png\" data-size=\"595x842\"><img loading=\"lazy\" src=\"https://mudtowncrew.com/media/posts/8/gallery/kim-thumbnail.png\" alt=\"Kim\" width=\"595\" height=\"842\"></a>\n<figcaption>Kim \"The Liberator\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://mudtowncrew.com/media/posts/8/gallery/shen.png\" data-size=\"595x842\"><img loading=\"lazy\" src=\"https://mudtowncrew.com/media/posts/8/gallery/shen-thumbnail.png\" alt=\"Shen\" width=\"595\" height=\"842\"></a>\n<figcaption>Just Shen</figcaption>\n</figure>\n</div></div>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://mudtowncrew.com/media/posts/8/cover3.png\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://mudtowncrew.com/media/posts/8/responsive/cover3-xs.png 300w ,https://mudtowncrew.com/media/posts/8/responsive/cover3-sm.png 480w ,https://mudtowncrew.com/media/posts/8/responsive/cover3-md.png 768w\"  alt=\"\"></figure>",
+            "author": {
+                "name": "Federico Dib"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-29T18:21:30-06:00",
+            "date_modified": "2020-09-29T18:21:30-06:00"
+        },
+        {
             "id": "https://mudtowncrew.com/the-mudtown-crew.html",
             "url": "https://mudtowncrew.com/the-mudtown-crew.html",
             "title": "What is this thing?",
@@ -22,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T13:49:43-06:00",
-            "date_modified": "2020-08-20T13:49:43-06:00"
+            "date_published": "2020-09-29T18:21:30-06:00",
+            "date_modified": "2020-09-29T18:21:30-06:00"
         },
         {
             "id": "https://mudtowncrew.com/want-so-see-some.html",
@@ -37,8 +51,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T13:49:43-06:00",
-            "date_modified": "2020-08-20T13:49:43-06:00"
+            "date_published": "2020-09-29T18:21:30-06:00",
+            "date_modified": "2020-09-29T18:21:30-06:00"
         },
         {
             "id": "https://mudtowncrew.com/who-is-making-this-why.html",
@@ -52,8 +66,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T13:49:43-06:00",
-            "date_modified": "2020-08-20T13:49:43-06:00"
+            "date_published": "2020-09-29T18:21:30-06:00",
+            "date_modified": "2020-09-29T18:21:30-06:00"
         },
         {
             "id": "https://mudtowncrew.com/the-great-stupid-wars.html",
@@ -67,8 +81,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T13:49:43-06:00",
-            "date_modified": "2020-08-20T13:49:43-06:00"
+            "date_published": "2020-09-29T18:21:30-06:00",
+            "date_modified": "2020-09-29T18:21:30-06:00"
         }
     ]
 }

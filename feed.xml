@@ -10,6 +10,44 @@
     <id>https://mudtowncrew.com</id>
 
     <entry>
+        <title>Characters</title>
+        <author>
+            <name>Federico Dib</name>
+        </author>
+        <link href="https://mudtowncrew.com/characters.html"/>
+        <id>https://mudtowncrew.com/characters.html</id>
+
+        <updated>2020-09-29T18:21:30-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Let us introduce you to the crew. These are the five. Buko "The 'Captain'"Bouncer "The Dancing Bodyguard"Gor "The Pirate"Kim "The Liberator"Just Shen
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Let us introduce you to the crew.  These are the five. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
+<figure class="gallery__item"><a href="https://mudtowncrew.com/media/posts/8/gallery/buko.png" data-size="595x842"><img loading="lazy" src="https://mudtowncrew.com/media/posts/8/gallery/buko-thumbnail.png" alt="Buko" width="595" height="842"></a>
+<figcaption>Buko "The 'Captain'"</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mudtowncrew.com/media/posts/8/gallery/bouncer.png" data-size="595x842"><img loading="lazy" src="https://mudtowncrew.com/media/posts/8/gallery/bouncer-thumbnail.png" alt="Bouncer" width="595" height="842"></a>
+<figcaption>Bouncer "The Dancing Bodyguard"</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mudtowncrew.com/media/posts/8/gallery/gor.png" data-size="595x842"><img loading="lazy" src="https://mudtowncrew.com/media/posts/8/gallery/gor-thumbnail.png" alt="Gor" width="595" height="842"></a>
+<figcaption>Gor "The Pirate"</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mudtowncrew.com/media/posts/8/gallery/kim.png" data-size="595x842"><img loading="lazy" src="https://mudtowncrew.com/media/posts/8/gallery/kim-thumbnail.png" alt="Kim" width="595" height="842"></a>
+<figcaption>Kim "The Liberator"</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mudtowncrew.com/media/posts/8/gallery/shen.png" data-size="595x842"><img loading="lazy" src="https://mudtowncrew.com/media/posts/8/gallery/shen-thumbnail.png" alt="Shen" width="595" height="842"></a>
+<figcaption>Just Shen</figcaption>
+</figure>
+</div></div>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://mudtowncrew.com/media/posts/8/cover3.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://mudtowncrew.com/media/posts/8/responsive/cover3-xs.png 300w ,https://mudtowncrew.com/media/posts/8/responsive/cover3-sm.png 480w ,https://mudtowncrew.com/media/posts/8/responsive/cover3-md.png 768w"  alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>What is this thing?</title>
         <author>
             <name>Federico Dib</name>
@@ -17,7 +55,7 @@
         <link href="https://mudtowncrew.com/the-mudtown-crew.html"/>
         <id>https://mudtowncrew.com/the-mudtown-crew.html</id>
 
-        <updated>2020-08-20T13:49:43-06:00</updated>
+        <updated>2020-09-29T18:21:30-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mudtowncrew.com/media/posts/2/P4.jpg" alt="" />
@@ -60,7 +98,7 @@
         <link href="https://mudtowncrew.com/want-so-see-some.html"/>
         <id>https://mudtowncrew.com/want-so-see-some.html</id>
 
-        <updated>2020-08-20T13:49:43-06:00</updated>
+        <updated>2020-09-29T18:21:30-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mudtowncrew.com/media/posts/6/bggal.jpg" alt="" />
@@ -95,7 +133,7 @@
         <link href="https://mudtowncrew.com/who-is-making-this-why.html"/>
         <id>https://mudtowncrew.com/who-is-making-this-why.html</id>
 
-        <updated>2020-08-20T13:49:43-06:00</updated>
+        <updated>2020-09-29T18:21:30-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mudtowncrew.com/media/posts/3/pp5.jpg" alt="" />
@@ -131,7 +169,7 @@
         <link href="https://mudtowncrew.com/the-great-stupid-wars.html"/>
         <id>https://mudtowncrew.com/the-great-stupid-wars.html</id>
 
-        <updated>2020-08-20T13:49:43-06:00</updated>
+        <updated>2020-09-29T18:21:30-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mudtowncrew.com/media/posts/4/P3.jpg" alt="" />
