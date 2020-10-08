@@ -207,6 +207,7 @@
 </footer>
 </div>
 </div>
+   <div class="save-the-world-again" style="display: none;"></div>
 <script defer src="https://mudtowncrew.com/assets/js/scripts.min.js?v=babd20e2a0a25821e63a0529c9feaae0"></script>
 <script>
    var images = document.querySelectorAll('img[loading]');
@@ -384,14 +385,10 @@
    });
    let btn2 = document.getElementById("save-the-world");
    var btn = document.querySelector('.open-modal');
-   var bt3 = document.querySelector('save-the-world-again');
    btn.addEventListener('click', function () {
       modal.open();
    });
    btn2.addEventListener('click', function () {
-      modal.open();
-   });
-   btn3.addEventListener('click', function () {
       modal.open();
    });
    modal.setContent(document.querySelector('#loadmeplease').innerHTML);
