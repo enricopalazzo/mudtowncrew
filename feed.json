@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://mudtowncrew.com/issue-0.html",
+            "url": "https://mudtowncrew.com/issue-0.html",
+            "title": "Issue #0 Now Available",
+            "summary": "Issue #0 is now live! You can read it at: ",
+            "content_html": "<h4><a href=\"https://globalcomix.com/c/the-mudtown-crew\" target=\"_blank\" rel=\"noopener noreferrer\">Issue #0 is now live!  You can read it at:</a></h4>\n<p> </p>\n<h3 class=\"align-center\"><a href=\"https://globalcomix.com/c/the-mudtown-crew\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"background-color: #da3939; border: none; font-weight: bold; color: white; padding: 10px; hover: none;\">GlobalComix</span></a></h3>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://mudtowncrew.com/media/posts/9/gallery/coverforweb0.jpg\" data-size=\"800x1132\"><img loading=\"lazy\" src=\"https://mudtowncrew.com/media/posts/9/gallery/coverforweb0-thumbnail.jpg\" alt=\"Issue #0 Cover\" width=\"768\" height=\"1087\"></a>\n<figcaption>Issue #0 Cover</figcaption>\n</figure>\n</div></div>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Federico Dib"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-16T13:39:59-06:00",
+            "date_modified": "2020-12-16T13:39:59-06:00"
+        },
+        {
             "id": "https://mudtowncrew.com/characters.html",
             "url": "https://mudtowncrew.com/characters.html",
             "title": "Characters",
@@ -21,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-07T19:28:12-06:00",
-            "date_modified": "2020-10-07T19:28:12-06:00"
+            "date_published": "2020-12-16T13:39:59-06:00",
+            "date_modified": "2020-12-16T13:39:59-06:00"
         },
         {
             "id": "https://mudtowncrew.com/the-mudtown-crew.html",
@@ -36,8 +50,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-07T19:28:12-06:00",
-            "date_modified": "2020-10-07T19:28:12-06:00"
+            "date_published": "2020-12-16T13:39:59-06:00",
+            "date_modified": "2020-12-16T13:39:59-06:00"
         },
         {
             "id": "https://mudtowncrew.com/want-so-see-some.html",
@@ -51,8 +65,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-07T19:28:12-06:00",
-            "date_modified": "2020-10-07T19:28:12-06:00"
+            "date_published": "2020-12-16T13:39:59-06:00",
+            "date_modified": "2020-12-16T13:39:59-06:00"
         },
         {
             "id": "https://mudtowncrew.com/who-is-making-this-why.html",
@@ -66,8 +80,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-07T19:28:12-06:00",
-            "date_modified": "2020-10-07T19:28:12-06:00"
+            "date_published": "2020-12-16T13:39:59-06:00",
+            "date_modified": "2020-12-16T13:39:59-06:00"
         },
         {
             "id": "https://mudtowncrew.com/the-great-stupid-wars.html",
@@ -81,8 +95,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-07T19:28:12-06:00",
-            "date_modified": "2020-10-07T19:28:12-06:00"
+            "date_published": "2020-12-16T13:39:59-06:00",
+            "date_modified": "2020-12-16T13:39:59-06:00"
         }
     ]
 }
